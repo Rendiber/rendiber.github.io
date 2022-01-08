@@ -1,27 +1,35 @@
 
+
 .jumbotron {
-	padding-top: 6rem;
-	padding-bottom: 8rem;
-	background-image: url(image/Profilweb.jpg);
+	padding-top: 4rem;
+	padding-bottom: 1rem;
+	background-color: black;
+	
+
+}
+
+#mq {
+	background-color: black;
 }
 
 
-
 #about {
-	background-color:  #273036; 
+	background-color:  #25292c; 
+	padding-bottom: 15rem;
 }
 
 
 
 #projects {
-	background-color:  #273036; 
+	background-color:  #434c50; 
+	padding-top: 3rem;
 }
 	section{
 		padding-top: 5rem;
 	}
 
 #contact {
-		background-color:  #273036; 
+		background-color:  #344855; 
 	}
 		section{
 			padding-bottom: 1rem;
